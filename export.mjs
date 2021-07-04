@@ -58,5 +58,5 @@ function build() {
 	fs.writeFileSync(path.join(exportPath, 'index.html'), prettier.format(rulesetHtml, { parser: 'html' }));
 	fs.copyFileSync(path.join(srcPath, 'style.css'), path.join(exportPath, 'style.css'));
 
-	console.log('Build finished.');
+	console.log(`✨ Build finished: ${path.join(exportPath, 'index.html')}`);
 }
