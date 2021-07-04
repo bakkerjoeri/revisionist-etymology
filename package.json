@@ -1,0 +1,14 @@
+{
+  "name": "revisionist-etymology",
+  "version": "1.0.0",
+  "description": "A tabletop game about imagined etymology.",
+  "keywords": [
+    "tabletop",
+    "game"
+  ],
+  "author": "Joeri Bakker <bakkerjoeri@gmail.com>",
+  "devDependencies": {
+    "micromark": "^3.0.0",
+    "prettier": "^2.3.2"
+  }
+}

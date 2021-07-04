@@ -1,0 +1,39 @@
+html {
+	font-family: 'Charter', 'Georgia', serif;
+}
+
+body {
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1 + .subtitle {
+	margin-top: -1em;
+	font-style: italic;
+	text-align: center;
+}
+
+p, ul, ol {
+	line-height: 1.45em;
+	margin-bottom: 1em;
+}
+
+@media screen {
+	html {
+		font-size: clamp(16px, 3.45vw, 20px);
+	}
+
+	body {
+		max-width: 640px;
+		padding: 20px;
+	}
+}
+
+@media print and (orientation: portrait) {
+	html {
+		font-size: 3vw;
+	}
+}
