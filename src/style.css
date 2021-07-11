@@ -34,6 +34,6 @@ p, ul, ol {
 
 @media print and (orientation: portrait) {
 	html {
-		font-size: 3vw;
+		font-size: 2.8vw;
 	}
 }
