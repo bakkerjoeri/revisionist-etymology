@@ -1,7 +1,7 @@
 # Revisionist Etymology
 <p class="subtitle">by Ewoud & Joeri</p>
 
-*Etymology* is a self referential compound word, meaning "the study of etymology". In its tradition you will speculate wildly on language and where it came from.
+Can you even begin to imagine where the word *etymology* comes from? Turns out: yes, you can. Let's discover exciting new word origins and contribute to the field of etymology.
 
 ## ☞ What do you need to play
 * 3 or more people
