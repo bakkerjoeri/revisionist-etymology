@@ -3,13 +3,13 @@
 
 Can you even begin to imagine where the word *etymology* comes from? Turns out: yes, you can. Let's discover exciting new word origins and contribute to the field of etymology.
 
-## ☞ What do you need to play
+## What do you need to play
 * 3 or more people
 * Things to write on, like post-its or 3-by-5's
 * Things to write with
 * Optionally: a fun accessory for the linguist to wear
 
-## ☞ How to play
+## How to play
 1. Appoint someone as the linguist for this round.
 2. The linguist picks a word or phrase, which the others write down on their piece of paper.
 3. The other players then write down a **completely made up** etymology of that word or phrase. They fold up their work and hand it to the linguist.
